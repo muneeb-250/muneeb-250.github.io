@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I am </h1>
-<div style="width: 100%; margin:auto;">
-  <img src="name.svg" style="width: 100%;" alt="Click to see the source">
-</div>
-<div style="width: 100%; margin:auto;">
-  <img src="intro.svg" style="width: 100%;" alt="Click to see the source">
-</div>
-<span> <img src="https://komarev.com/ghpvc/?username=muneeb-250&label=Profile%20views&color=0e75b6&style=flat" alt="muneeb-250" /> </span>
-
+  <h2> Muneeb Ur Rehman </h2>
+  <h4> A Web3 developer from Pakistan </h4>
 <a href="https://twitter.com/0xmuneeb" target="blank"><img src="https://img.shields.io/twitter/follow/0xmuneeb?logo=twitter&style=for-the-badge" alt="0xmuneeb" /></a>
 
 <a href="https://linkedin.com/in/muneeburrehman250" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="0xmuneeb" /></a>
